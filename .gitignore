@@ -1,0 +1,30 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.log
+
+# --- Virtualenv ---
+.venv/
+.env/
+venv/
+ENV/
+env/
+
+# --- uv / poetry / pipenv lock files ---
+uv.lock
+
+# --- Editor / OS specific ---
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# --- Git ---
+.git/
+
