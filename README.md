@@ -15,7 +15,11 @@
 * 終了時に `Finished!` 表示と赤線で塔の頂点を明示
 * 見た目と物理のズレを修正し、直感的なプレイ感に仕上げました
 
-[![Image from Gyazo](https://i.gyazo.com/28e922549f6e470a0623260330c6e9bf.png)](https://gyazo.com/28e922549f6e470a0623260330c6e9bf)
+<p align="center">
+  <a href="https://gyazo.com/28e922549f6e470a0623260330c6e9bf">
+    <img src="https://i.gyazo.com/28e922549f6e470a0623260330c6e9bf.png" width="400" />
+  </a>
+</p>
 
 ---
 
